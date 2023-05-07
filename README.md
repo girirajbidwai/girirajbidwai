@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giriraj Bidwai</h1>
-<h3 align="center">I am a sophomore student pursuing a degree in Computer Science with a strong interest in data engineering and Web Development. I have a solid foundation in programming languages such as Python and C++, and have experience working with SQL databases.In my free time, I enjoy participating in coding competitions, attending tech meetups, and learning about new technologies. If you're interested in connecting or have any opportunities that you think would be a good fit, feel free to reach out to me!</h3>
+<h3 align="center">I am a sophomore student pursuing a degree in Computer Science with a strong interest in data engineering and Web Development.I enjoy participating in coding competitions, attending tech meetups, and learning about new technologies. If you're interested in connecting or have any opportunities that you think would be a good fit, feel free to reach out to me!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girirajbidwai&label=Profile%20views&color=0e75b6&style=flat" alt="girirajbidwai" /> </p>
