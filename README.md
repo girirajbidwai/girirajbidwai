@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Giriraj Bidwai</h1>
-<h3 align="center">I am a Prefinal year student pursuing a degree in Computer Science with a strong interest in data engineering and Web Development.I enjoy participating in coding competitions, attending tech meetups, and learning about new technologies. If you're interested in connecting or have any opportunities that you think would be a good fit, feel free to reach out to me!</h3>
+<h3 align="center">I am a Final year student pursuing a degree in Computer Science with a strong interest in data engineering and Web Development.I enjoy participating in coding competitions, attending tech meetups, and learning about new technologies. If you're interested in connecting or have any opportunities that you think would be a good fit, feel free to reach out to me!</h3>
 <!-- <img style="margin-left:400px;" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=girirajbidwai&label=Profile%20views&color=0e75b6&style=flat" alt="girirajbidwai" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girirajbidwai" alt="girirajbidwai" /></a> </p>
-
-- 🔭 I’m currently working on **IPL DATA ANALYSIS**
 
 - 🌱 I’m currently learning **Data Engineering,Web Development and Devops.**
 
@@ -14,7 +12,7 @@
 
 - 📝 I regularly write articles on [medium](medium)
 
-- 💬 Ask me about **Spark,Kafka,ReactJS,NodeJS,ExpressJS,MongoDB,AWS,Docker.**
+- 💬 Ask me about **Spark,Kafka,ReactJ,Snowflake,Airflow,AWS,Docker.**
 
 - 📫 How to reach me **girirajatwork@gmail.com**
 
